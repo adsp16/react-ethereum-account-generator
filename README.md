@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Project Description
+React project generate a mnemonic passphrase using BIP39, generate a public, private keys and account address using ethereumjs-wallet. Then sign an sample transaction using ethereumjs-wallet ready to broadcase to the ethereum network.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
